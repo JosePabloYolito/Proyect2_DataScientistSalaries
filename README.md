@@ -1,2 +1,2 @@
-# Proyect2_DataScientistSalaries
+# Project2_DataScientistSalaries
 shortly will be filled :)
